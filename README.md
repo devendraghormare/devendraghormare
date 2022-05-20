@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devendraghormare
-- 👀 I’m interested in Java Coding
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Java 
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
