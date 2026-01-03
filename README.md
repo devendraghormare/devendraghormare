@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devendraghormare
-- 👀 I’m interested in Java 
+- 👀 I’m interested in Python 
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...devendraghormare4192@gmail.com
